@@ -1,0 +1,10 @@
+{
+  "api": { 
+    "invokeUrl": "https://bpig1tt794.execute-api.us-east-1.amazonaws.com/prod"
+  },
+  "cognito": {
+    "REGION": "us-east-1",
+    "USER_POOL_ID": "us-east-1_H8kZthGFz",
+    "APP_CLIENT_ID": "14c9cmvc1nk7ebgtl9f7kc0e3k"
+  }
+}
